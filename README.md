@@ -1,2 +1,2 @@
 # Sandbox
-Testområde
+print("Hei, Sandbox fungerer!")
